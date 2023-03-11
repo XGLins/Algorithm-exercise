@@ -1,2 +1,2 @@
 # Algorithm-exercise
-日常算法练习
+日常算法练习。
