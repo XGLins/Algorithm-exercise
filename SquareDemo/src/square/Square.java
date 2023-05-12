@@ -1,4 +1,4 @@
-package SquareDemo.square;
+package square;
 
 public class Square {
 
