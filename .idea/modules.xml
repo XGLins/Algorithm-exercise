@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithm-exercise.iml" filepath="$PROJECT_DIR$/Algorithm-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveAlgorithm/RecursiveAlgorithm.iml" filepath="$PROJECT_DIR$/RecursiveAlgorithm/RecursiveAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversalCharacter/ReversalCharacter.iml" filepath="$PROJECT_DIR$/ReversalCharacter/ReversalCharacter.iml" />
       <module fileurl="file://$PROJECT_DIR$/SquareDemo/SquareDemo.iml" filepath="$PROJECT_DIR$/SquareDemo/SquareDemo.iml" />
     </modules>
   </component>
