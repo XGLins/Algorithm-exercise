@@ -34,7 +34,7 @@ public class CokeTest {
     @Test
     public void test2() {
         //总共20块钱
-        int money = 20;
+        int money = -1;
         //可乐单价3元/瓶
         int price = 3;
         //可购买瓶数
@@ -42,9 +42,9 @@ public class CokeTest {
 
         //使用do……while循环：3元购买一瓶可乐，依次类推
         do {
-            if (money >= 3) {
+            if (money >= price) {
                 //消费余额中的3元
-                money -= 3;
+                money -= price;
                 //累加购买1瓶可乐
                 numCoke ++;
                 //我们喝完了,用空瓶子换回1元加入到余额中继续购买
