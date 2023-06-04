@@ -34,7 +34,7 @@ public class CokeTest {
     @Test
     public void test2() {
         //总共20块钱
-        int money = -1;
+        int money = 20;
         //可乐单价3元/瓶
         int price = 3;
         //可购买瓶数
