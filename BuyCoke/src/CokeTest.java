@@ -55,7 +55,6 @@ public class CokeTest {
 
         //逻辑判断
         if (money >= price) {
-            money -= 1;
             System.out.println("总计可购买可乐：" + numCoke + "瓶");
             System.out.println("余额：" + money + "元");
         } else if (money<0) {
